@@ -1,0 +1,28 @@
+﻿  bob.cpp
+  Draw.cpp
+  Engine.cpp
+C:\Users\Alexandr\source\repos\HelloSFML\Engine.cpp(7,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Alexandr\source\repos\HelloSFML\Engine.cpp(8,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Alexandr\source\repos\HelloSFML\Engine.cpp(10,52): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Alexandr\source\repos\HelloSFML\Engine.cpp(10,38): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Input.cpp
+  Main.cpp
+  Update.cpp
+  Создание кода...
+  HelloSFML.vcxproj -> C:\Users\Alexandr\source\repos\HelloSFML\x64\Debug\HelloSFML.exe
